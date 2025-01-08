@@ -1,6 +1,5 @@
 import AcmeLogo from '@/app/ui/acme-logo';
 import SignUpForm from '@/app/ui/signupform';
-import Link from 'next/link';
 
 export default function SignUpPage() {
   return (

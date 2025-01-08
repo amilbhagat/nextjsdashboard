@@ -12,9 +12,9 @@ export default function Page() {
         </div>
         <LoginForm />
         <div className="flex justify-center mt-4">
-          <p className="mt-4 text-sm">
-            Don't have an account? <a href="/signup" className="text-blue-500 underline">Sign up here</a>.
-          </p>
+          <div className="mt-4 text-sm">
+            Don&apos;t have an account? <a href="/signup" className="text-blue-500 underline">Sign up here</a>.
+          </div>
         </div>
       </div>
     </main>
